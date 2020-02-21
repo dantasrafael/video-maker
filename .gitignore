@@ -107,3 +107,6 @@ dist
 credentials/*.json
 
 content.json
+
+#Images Folder
+content/*.png
